@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+header{
+    
+    text-align: center;
+    line-height: 16px;
+    padding-top: 20px;
+}
+ol{
+    font-size: 0;
+    padding: 0;
+    background-color: rgb(100, 0, 0);
+}
+li{
+    font-size: 16px;
+    display: inline-block;
+    width: 25%;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+main{
+    background-color: rgb(100,0,0);
+    color: white;
+}
