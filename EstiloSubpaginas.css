@@ -53,3 +53,9 @@ a{
 section{
     clear: both;
 }
+ol li{
+    width:200px;
+}
+h2:target{
+    text-decoration: underline 3px white;
+}
