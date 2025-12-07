@@ -59,3 +59,21 @@ ol li{
 h2:target{
     text-decoration: underline 3px white;
 }
+nav>p{
+    text-align: center;
+}
+figure{
+    width: 25%;
+    margin: auto;
+    display: inline-block;
+    margin: 50px;
+    text-align: center;
+}
+figcaption{
+    font-weight: bold;
+    text-align: center;
+    padding-left: 30px;
+}
+ figure:hover{
+    transform: scale(1.15);
+   }
