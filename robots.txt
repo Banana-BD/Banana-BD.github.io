@@ -1,0 +1,3 @@
+User-agent:*
+Allow:/
+sitemap: https://www.banana-bd.github.io/sitemap.xml

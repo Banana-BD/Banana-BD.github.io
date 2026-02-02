@@ -1,0 +1,36 @@
+{
+    "@context": "https://schema.org",
+    "@type":"BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position":1,
+            "name": "Inicio",
+            "item": "https://banana-bd.github.io"
+        },
+        {
+            "@type": "ListItem",
+            "position":2,
+            "name": "Conceptos Básicos",
+            "item": "https://banana-bd.github.io/conceptos-basicos.html"
+        },
+        {
+            "@type": "ListItem",
+            "position":3,
+            "name": "Inicio",
+            "item": "https://banana-bd.github.io/conceptos-basicos/moba.html"
+        },
+        {
+            "@type": "ListItem",
+            "position":4,
+            "name": "Inicio",
+            "item": "https://banana-bd.github.io/conceptos-basicos/moba/historia.html"
+        },
+        {
+            "@type": "ListItem",
+            "position":5,
+            "name": "Inicio",
+            "item": "https://banana-bd.github.io/conceptos-basicos/moba/historia/populares.html"
+        }
+    ]
+}
