@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
     text-align: center;
     line-height: 16px;
@@ -78,3 +79,85 @@ figcaption{
  figure:hover{
     transform: scale(1.15);
    }
+=======
+header {
+    text-align: center;
+    line-height: 16px;
+    padding-top: 20px;
+}
+
+nav {
+    border: 2px lightblue solid;
+    width: 50%;
+    float: left;
+    background-color: rgb(121, 39, 39);
+    margin-right: 15px;
+}
+
+li {
+    text-align: left;
+    margin-top: 10px;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+html {
+    background-color: rgb(53, 0, 0);
+    color: white;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 70%;
+    margin-left: 15%;
+}
+
+ol {
+    width: 40%;
+    background-color: rgb(121, 39, 39);
+}
+
+li {
+    text-align: left;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+section{
+    clear: both;
+}
+ol li{
+    width:200px;
+}
+h2:target{
+    text-decoration: underline 3px white;
+}
+nav>p{
+    text-align: center;
+}
+figure{
+    width: 25%;
+    margin: auto;
+    display: inline-block;
+    margin: 50px;
+    text-align: center;
+}
+figcaption{
+    font-weight: bold;
+    text-align: center;
+    padding-left: 30px;
+}
+ figure:hover{
+    transform: scale(1.15);
+   }
+>>>>>>> 37e0ea29f321b8793af224c4dc6c2f549e95ffd2

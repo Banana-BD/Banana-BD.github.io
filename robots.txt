@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 User-agent:*
 Allow:/
+=======
+User-agent:*
+Allow:/
+>>>>>>> 37e0ea29f321b8793af224c4dc6c2f549e95ffd2
 sitemap: https://www.banana-bd.github.io/sitemap.xml
